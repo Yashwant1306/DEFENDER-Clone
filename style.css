@@ -1,0 +1,83 @@
+.logo{
+    width: 15%;
+    margin-right: 560px;
+}
+.font-1{
+    font-family: "Land Rover", Helvetica, Arial, "Microsoft JhengHei", sans-serif;
+    line-height: 35px;
+    margin-top: 15px;
+}
+#cars{
+    background-color: #f8f9f9;
+    padding-top: 70px;
+}
+.size{
+    width: 100%;
+    height: 25vh;
+}
+.font-size{
+    font-size: 16px;
+    font-family: "Land Rover", Helvetica, Arial, "Microsoft JhengHei", sans-serif;;
+}
+.fit{
+    font-size:11px ;
+}
+.line-1{
+    line-height: 23px;
+}
+.fix-1{
+    width: 50%;
+    height: 50vh;
+    padding: 53px 10px;
+}
+.fix-2{
+    width: 50%;
+    height: 50vh;
+    padding: 53px 10px;
+}
+.fix-3{
+    width: 32%;
+    height: 45vh;
+    padding: 0px 8px;
+}
+.fix-4{
+    width: 68%;
+    height: 45vh;
+}
+.flex-container{
+    display: flex;
+}
+#identification-1{
+    background-color: #f8f9f9;
+}
+.Image-1{
+    width: 100%;
+    height: 100vh;
+}
+.img-3{
+    width: 95%;
+    height: 36vh;
+}
+#bg-12{
+    background-color: #f8f9f9;
+}
+.boss {
+    font-size: 35px;
+}
+.van{
+    padding-top: 70px;
+    font-size: 50px;
+}
+.van-1{
+    margin-bottom: 60px;
+    font-size: 17px;
+}
+.footer-img{
+    width: 9%;
+    height: 7vh;
+    margin: 20px;
+}
+.size-3{
+    font-size: 12px;
+    line-height: 30px;
+}
